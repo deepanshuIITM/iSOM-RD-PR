@@ -1,4 +1,4 @@
-# Visualization-Aided Reference Direction Based Multi-criteria Decison-making 
+## Visualization-Aided Reference Direction Based Multi-criteria Decision-making 
 
 **Preliminary Requirements:**
 
