@@ -9,9 +9,15 @@
         [3]. MCDM has been performed in MATLAB (.m files) using interpretable Self-Organizing Maps (iSOM) [3]
 
 
-### Fig: Concept of Reference-direction approach in Pareto Race
 
 <img src="https://github.com/deepanshuIITM/iSOM-PR/assets/137225940/98f2c635-e008-491f-a159-0c004fef113c" alt="image" width="550" height="500">
+
+### Fig: Concept of Reference-direction approach in Pareto Race
+
+<img src="https://github.com/user-attachments/assets/6357eb79-b347-4fa3-ad95-cb8b01bae24e" alt="image" width="1250" height="450">
+
+### Fig: iSOM Visualization-assisted reference direction based Pareto Race
+
 
 **Reference:**
 
