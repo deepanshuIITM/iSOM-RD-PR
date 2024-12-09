@@ -14,7 +14,7 @@
 
 **Fig: Concept of Reference-direction approach in Pareto Race**
 
-<img src="https://github.com/user-attachments/assets/6357eb79-b347-4fa3-ad95-cb8b01bae24e" alt="image" width="1250" height="450">
+<img src="https://github.com/user-attachments/assets/6357eb79-b347-4fa3-ad95-cb8b01bae24e" alt="image" width="750" height="350">
 
 **Fig: iSOM Visualization-assisted reference direction based Pareto Race**
 
